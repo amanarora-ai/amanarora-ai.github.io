@@ -102,7 +102,7 @@ const DATA = {
   headshot: "https://drive.google.com/file/d/16SVARaczokcH2TlzPPJ7i49I_fFIYK6_/view?usp=sharing",
   email: "amanaror@buffalo.edu",
   links: [
-    { label: "CV", href: "#" },
+    { label: "CV", href: "https://drive.google.com/file/d/1nuT5qTWKyrlgk30FhMS5BDTO6gLRhu_0/view?usp=sharing" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/amanarora012/" },
     { label: "X/Twitter (@mn_roars)", href: "https://x.com/mn_roars" },
     { label: "Email", href: "mailto:amanaror@buffalo.edu" },
