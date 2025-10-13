@@ -199,7 +199,7 @@ export default function AmanPortfolio() {
                     </div>
                   ) : null}
                   <div>
-                    <div>
+      <div>
                       <strong>{p.title}</strong>
                     </div>
                     <div className="tags">
@@ -258,7 +258,7 @@ export default function AmanPortfolio() {
                       </div>
                     ) : null}
                   </div>
-                </div>
+      </div>
               </li>
             ))}
           </ul>
@@ -332,17 +332,20 @@ footer{border-top:1px solid var(--line);margin-top:26px;padding:12px 0;color:var
 .proj-title{grid-area:title}
 .proj-desc{grid-area:desc}
 .proj-links{grid-area:links}
-.thumb-wrap{width:120px;height:auto}
-.proj-thumb{width:100%;height:auto;max-height:120px;object-fit:contain;border:1px solid rgba(0,0,0,.08);border-radius:6px;display:block}
+.thumb-wrap{width:120px;height:90px}
+.proj-thumb{width:120px;height:90px;object-fit:contain;border:1px solid rgba(0,0,0,.08);border-radius:6px;display:block;background:#fff}
 @media (max-width:720px){
-  .intro{grid-template-columns:1fr}
-  .headshot{width:120px;height:120px}
-  .proj{grid-template-columns:1fr;grid-template-rows:auto auto auto;grid-template-areas:
-    "title"
-    "photo"
-    "desc"
-    "links";
+  /* Keep two-column layout on mobile */
+  .intro{grid-template-columns:1fr 140px}
+  .headshot{width:140px;height:140px}
+  .proj{grid-template-columns:120px 1fr;grid-template-rows:auto auto auto;grid-template-areas:
+    "photo title"
+    "photo desc"
+    "photo links";
   }
+  .thumb-wrap{width:120px;height:90px}
+  .proj-thumb{width:120px;height:90px;object-fit:contain}
+}
   .thumb-wrap{width:100%;height:auto}
   .proj-thumb{width:100%;height:auto;max-height:none;object-fit:contain}
 }
