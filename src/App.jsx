@@ -94,9 +94,8 @@ const DATA = {
   titleLine: "Research Assistant, TRAIL Lab, University at Buffalo",
   blurb: "",
   intro: [
-    <>I am a <strong>Research Assistant</strong> in the <strong>TRAIL Lab</strong> at the University at Buffalo, where I am advised by <a href="https://www.buffalo.edu/cubs/members.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ratha-nalini.html" target="_blank" rel="noreferrer">Dr. Nalini Ratha</a>. My research is centered on developing <em>causal and dynamical world models</em>. I draw upon <em>deep learning, reinforcement learning and cognitive science</em> to guide this work, with a primary goal of applying these models to advance <em>robotics</em>.</>,
-    <>I completed my M.S. in Computer Science at the University at Buffalo, where my master's project explored <em>reinforcement‑learning methods for quadrupedal locomotion</em>.</>,
-    <>Previously, I earned my B.Tech from <strong>NIT Bhopal</strong> and worked at <strong>NVIDIA</strong> on the <strong>Ampere</strong> and <strong>Hopper</strong> GPU architectures.</>,
+    <>Currently, I am a <strong>Research Assistant</strong> at the University at Buffalo's <strong>TRAIL Lab</strong>, working under the guidance of <a href="https://www.buffalo.edu/cubs/members.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ratha-nalini.html" target="_blank" rel="noreferrer">Dr. Nalini Ratha</a>. My work lies at the intersection of <em>deep learning, reinforcement learning, and cognitive science</em>, with a primary goal of advancing <em>robotics through causal reasoning and dynamical modeling</em>.</>,
+    <>Prior to my current role, I obtained my M.S. from UB, where my thesis explored <em>robotic control for quadrupedal locomotion</em>. My technical background also includes industry experience at <strong>NVIDIA</strong>, where I contributed to the <strong>Ampere and Hopper architectures</strong>, following my B.Tech at <strong>NIT Bhopal</strong>.</>,
   ],
   // Use your Google Drive share link; <Headshot/> will derive a direct image URL
   headshot: "https://drive.google.com/file/d/16SVARaczokcH2TlzPPJ7i49I_fFIYK6_/view?usp=sharing",
