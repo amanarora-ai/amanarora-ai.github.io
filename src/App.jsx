@@ -267,8 +267,7 @@ export default function AmanPortfolio() {
         <section id="contact">
           <h2>Contact</h2>
           <p className="para">
-            I'm open to collaborations in <strong>RL theory</strong> and
-            <strong> RL‑based learned control</strong>. Email works best.
+            I welcome collaborations and discussions on developing <strong>causal and dynamical understanding in AI systems and agents</strong>, along with theoretical work in <strong>Reinforcement Learning and Deep Learning</strong>. Feel free to reach out via email.
           </p>
           <p>
             <a href={`mailto:${DATA.email}`}>{DATA.email}</a>
