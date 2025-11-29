@@ -94,7 +94,7 @@ const DATA = {
   titleLine: "Research Assistant, TRAIL Lab, University at Buffalo",
   blurb: "",
   intro: [
-    <>Currently, I am a <strong>Research Assistant</strong> at the University at Buffalo's <strong>TRAIL Lab</strong>, working under the guidance of <a href="https://www.buffalo.edu/cubs/members.host.html/content/shared/engineering/computer-science-engineering/profiles/faculty/ladder/ratha-nalini.html" target="_blank" rel="noreferrer">Dr. Nalini Ratha</a>. My work lies at the intersection of <em>deep learning, reinforcement learning, and cognitive science</em>, with a primary goal of advancing <em>robotics through causal reasoning and dynamical modeling</em>.</>,
+    <>I am an <strong>AI researcher</strong> working to bridge the gap between <em>biological and machine intelligence</em>. My goal is to build <em>AI systems and agents that possess a genuine causal and dynamical understanding of their environment</em>. I achieve this by developing novel methods in <strong>Deep Learning and Reinforcement Learning</strong>, heavily inspired by the mechanisms of <em>cognitive neuroscience</em>.</>,
     <>Prior to my current role, I obtained my M.S. from UB, where my thesis explored <em>robotic control for quadrupedal locomotion</em>. My technical background also includes industry experience at <strong>NVIDIA</strong>, where I contributed to the <strong>Ampere and Hopper architectures</strong>, following my B.Tech at <strong>NIT Bhopal</strong>.</>,
   ],
   // Use your Google Drive share link; <Headshot/> will derive a direct image URL
