@@ -103,6 +103,7 @@ const DATA = {
   links: [
     { label: "CV", href: "https://drive.google.com/file/d/1HZoyqDhCq9mkB26fhfmxeORycNmmRPnY/view?usp=sharing" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/amanarora012/" },
+    { label: "GitHub", href: "https://github.com/amanarora-ai" },
     { label: "X/Twitter (@mn_roars)", href: "https://x.com/mn_roars" },
     { label: "Email", href: "mailto:amanaror@buffalo.edu" },
   ],
@@ -111,7 +112,7 @@ const DATA = {
       thumbnail: "https://drive.google.com/file/d/1Tr7DSxaGXjPye5tVuQ0cBOy0VBZNR2Uu/view?usp=sharing",
       title: "Dynamics Aware Quadrupedal Locomotion via Intrinsic Dynamics Head",
       authors: "Aman Arora, Nalini Ratha",
-      venue: "ICRA 2026 (submitted)",
+      venue: "ICRA 2026 (under review)",
       year: 2026,
       abstract:
         "Jointly train an Intrinsic Dynamics (ID) head that models state-to-torque dynamics and use it to define a dynamics reward, yielding smoother, more predictable quadrupedal locomotion.",
