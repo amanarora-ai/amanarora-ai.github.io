@@ -99,13 +99,13 @@ const DATA = {
   ],
   // Use your Google Drive share link; <Headshot/> will derive a direct image URL
   headshot: "https://drive.google.com/file/d/16SVARaczokcH2TlzPPJ7i49I_fFIYK6_/view?usp=sharing",
-  email: "amanaror@buffalo.edu",
+  email: "amanarora012@gmail.com",
   links: [
     { label: "CV", href: "https://drive.google.com/file/d/1FOu09LfkMvkTzs4MQQvp9O3px6vpuMpP/view?usp=sharing" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/amanarora012/" },
     { label: "GitHub", href: "https://github.com/amanarora-ai" },
     { label: "X/Twitter (@mn_roars)", href: "https://x.com/mn_roars" },
-    { label: "Email", href: "mailto:amanaror@buffalo.edu" },
+    { label: "Email", href: "mailto:amanarora012@gmail.com" },
   ],
   publications: [
     {
