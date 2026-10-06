@@ -101,7 +101,7 @@ const DATA = {
   headshot: "https://drive.google.com/file/d/16SVARaczokcH2TlzPPJ7i49I_fFIYK6_/view?usp=sharing",
   email: "amanaror@buffalo.edu",
   links: [
-    { label: "CV", href: "https://drive.google.com/file/d/1HZoyqDhCq9mkB26fhfmxeORycNmmRPnY/view?usp=sharing" },
+    { label: "CV", href: "https://drive.google.com/file/d/1FOu09LfkMvkTzs4MQQvp9O3px6vpuMpP/view?usp=sharing" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/amanarora012/" },
     { label: "GitHub", href: "https://github.com/amanarora-ai" },
     { label: "X/Twitter (@mn_roars)", href: "https://x.com/mn_roars" },
