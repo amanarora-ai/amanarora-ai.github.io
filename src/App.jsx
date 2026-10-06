@@ -117,7 +117,7 @@ const DATA = {
       abstract:
         "Jointly train an Intrinsic Dynamics (ID) head that models state-to-torque dynamics and use it to define a dynamics reward, yielding smoother, more predictable quadrupedal locomotion.",
       links: [
-        { label: "PDF", href: "https://drive.google.com/file/d/1ilrEBdq0uFbdDfPfmxuh_NAE8xCnpokK/view?usp=sharing" },
+        { label: "arXiv", href: "https://arxiv.org/abs/2605.01227" },
         { label: "Video", href: "https://drive.google.com/file/d/1Pdmdwzdx3ISgZe7OwYl2m9N9O-oGgrsP/view?usp=sharing" },
       ],
     },
